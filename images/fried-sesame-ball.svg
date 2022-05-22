@@ -1,0 +1,66 @@
+<svg id="dim_sum" data-name="dim sum" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.6 96.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9c19b;
+        stroke: #df9b5f;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #d0a551;
+        stroke: #060200;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>fried-sesame-ball</title>
+  <circle class="cls-1" cx="48.3" cy="48.3" r="47.8"/>
+  <circle class="cls-1" cx="48.1" cy="48.3" r="42"/>
+  <ellipse id="fried-sesame-ball" class="cls-2" cx="48.8" cy="49.6" rx="20.4" ry="21.8"/>
+  <ellipse class="cls-3" cx="48.9" cy="40.9" rx="1.5" ry="1.1" transform="translate(-3.67 4.84) rotate(-5.46)"/>
+  <ellipse class="cls-3" cx="56.71" cy="45.3" rx="1.1" ry="1.5" transform="translate(-4.05 5.6) rotate(-5.46)"/>
+  <ellipse class="cls-4" cx="49.51" cy="46.48" rx="1.1" ry="1.5" transform="translate(-16.61 30.98) rotate(-30)"/>
+  <ellipse class="cls-5" cx="46.77" cy="51.99" rx="1.1" ry="1.5" transform="translate(-21.64 66.5) rotate(-60)"/>
+  <ellipse class="cls-3" cx="56.4" cy="51.4" rx="1.5" ry="1.1" transform="translate(-4.63 5.6) rotate(-5.46)"/>
+  <ellipse class="cls-3" cx="44" cy="46.5" rx="1.5" ry="1.1" transform="translate(-4.22 4.4) rotate(-5.46)"/>
+  <ellipse class="cls-6" cx="40" cy="55.89" rx="1.5" ry="1.1" transform="translate(-17.29 17.92) rotate(-20.87)"/>
+  <ellipse class="cls-7" cx="48.03" cy="58.27" rx="1.1" ry="1.5" transform="translate(-16.21 97.95) rotate(-82.21)"/>
+  <ellipse class="cls-8" cx="36.59" cy="46.98" rx="1.3" ry="1.5" transform="translate(-13.65 78.94) rotate(-84.55)"/>
+  <ellipse class="cls-9" cx="55.62" cy="58.27" rx="1.1" ry="1.5" transform="translate(-17.08 92.97) rotate(-71.85)"/>
+</svg>
