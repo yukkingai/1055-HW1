@@ -1,0 +1,31 @@
+<svg id="dim_sum" data-name="dim sum" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.6 96.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9c19b;
+        stroke: #df9b5f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #f3f4cb;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>sweet-pork-bun</title>
+  <circle class="cls-1" cx="48.3" cy="48.3" r="47.8"/>
+  <circle class="cls-1" cx="48.1" cy="48.3" r="42"/>
+  <circle id="sweet-pork-bun" class="cls-2" cx="48.3" cy="48.8" r="34.2"/>
+  <path class="cls-3" d="M39.3,23.7c3.5-3.3,8.4-6.5,12.4-9.2M42.6,46.9c1.6-6.1,1.6-15.7-3.3-23.2-1.5-2.3-3.3-4.2-4.6-6.7m5.1,65.3c4.3-5.1,7.5-11,8.3-17.4s-.9-13.2-5.5-18C40,44.1,36.5,42,33.2,40c-5.3-3.2-9.8-6.7-16-5.6m54.9-9.3C65.8,27,59.8,30.3,55.7,35.2s-6.4,11.6-5.2,18.1c.7,3.8,2.5,7.4,4.2,10.9,2.7,5.5,6,11.6,11.8,14"/>
+</svg>
