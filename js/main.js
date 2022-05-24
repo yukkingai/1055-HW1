@@ -17,7 +17,7 @@
     // let theBadge = document.querySelector('#png'),
     //     theVector = document.querySelector('#vector');
 
-    let DimSum = document.querySelectorAll('img', 'svg');
+    let DimSum = document.querySelectorAll('svg');
 
     //querySelectorAll finds ALL elements that match the selector
     // and returns back an array-like object called a node list
@@ -36,15 +36,15 @@
 
     // for each badge in our collection, add an event handler
     // arrow functions are just shorthand function declarations
-    DimSum.forEach(soup-dumpling, soup-dumpling.addEventListener('click', logMyId));
-    DimSum.forEach(shrimp-dumpling, shrimp-dumpling.addEventListener('click', logMyId));
-    DimSum.forEach(sweet-pork-bun, sweet-pork-bun.addEventListener('click', logMyId));
-    DimSum.forEach(siu-mai, siu-mai.addEventListener('click', logMyId));
-    DimSum.forEach(egg-tart, egg-tart.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_1 => dim_sum_1.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_2 => dim_sum_2.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_3 => dim_sum_3.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_4 => dim_sum_4.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_5 => dim_sum_5.addEventListener('click', logMyId));
 
-    DimSum.forEach(fried-spring-roll, fried-spring-roll.addEventListener('click', logMyId));
-    DimSum.forEach(fried-sesame-ball, fried-sesame-ball.addEventListener('lick', logMyId));
-    DimSum.forEach(Can-sponge-cake, Can-sponge-cake.addEventListener('click', logMyId));
-    DimSum.forEach(chicken-feet, chicken-feet.addEventListener('click', logMyId));
-    DimSum.forEach(sticky-rice, sticky-rice.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_6 => dim_sum_6.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_7 => dim_sum_7.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_8 => dim_sum_8.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_9 => dim_sum_9.addEventListener('click', logMyId));
+    DimSum.forEach(dim_sum_10 => dim_sum_10.addEventListener('click', logMyId));
 })();

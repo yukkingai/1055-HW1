@@ -50,7 +50,12 @@ body {
     grid-gap: 20px;
 }
 
-.container img {
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container object {
     width: 20%;
 }
 
@@ -59,47 +64,52 @@ body {
     margin-top: 10px;
 }
 
-
-#dim_sum_1 :hover#soup-dumpling {
+#dim_sum_1:hover #soup-dumpling {
     fill: rgb(235, 235, 169) !important;
+    transition: all ease 1.5s;
 }
 
-#dim_sum_2 :hover#shrimp-dumpling {
+#dim_sum_2:hover #shrimp-dumpling {
     fill: rgb(245, 224, 227) !important;
+    
 }
 
-#dim_sum_3 :hover#sweet-pork-bun {
+#dim_sum_3:hover #sweet-pork-bun {
     fill: rgb(112, 37, 49) !important;
+    transition: all ease 1.5s;
 }
 
-#dim_sum_4 :hover#siu-mai {
+#dim_sum_4:hover #siu-mai {
     fill: rgb(45, 236, 71) !important;
+
 }
 
-#dim_sum_5 :hover#egg-tart {
+#dim_sum_5:hover #egg-tart {
     fill: rgb(93, 202, 221) !important;
 }
 
-#dim_sum_6 :hover#roll {
+#dim_sum_6:hover #roll {
     fill: rgb(121, 93, 221) !important;
 }
 
-#dim_sum_7 :hover#fried-sesame-ball {
+
+#dim_sum_7:hover #fried-sesame-ball {
     fill: rgb(233, 19, 30) !important;
 }
 
-#dim_sum_8 :hover#cake {
+#dim_sum_8:hover #cake {
     fill: rgb(243, 144, 238) !important;
 }
 
-#dim_sum_9 :hover#feet {
+#dim_sum_9:hover #feet {
     fill: rgb(238, 178, 67) !important;
 }
 
-#dim_sum_10 :hover#leaf1 {
+#dim_sum_10:hover #leaf1 {
     fill: rgb(77, 221, 58) !important;
+    
 }
 
-#dim_sum_10 :hover#leaf2 {
+#dim_sum_10:hover #leaf2 {
     fill: rgb(77, 221, 58) !important;
 }
